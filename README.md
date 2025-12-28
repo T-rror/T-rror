@@ -1,4 +1,4 @@
-## 👋 Olá, eu sou o Mateus Fernandes
+## 👋 Olá, eu sou Mateus Fernandes
 
 Sou **Desenvolvedor Full Stack Júnior**, focado no desenvolvimento de **aplicações web completas**, do front-end ao back-end, com atenção à experiência do usuário e regras de negócio reais.
 
