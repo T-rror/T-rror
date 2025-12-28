@@ -57,5 +57,5 @@ Busco minha **primeira oportunidade como Desenvolvedor Full Stack Júnior**, est
 
 ## 🔗 Vamos nos conectar
 
-- 💼 LinkedIn: https://www.linkedin.com/in/SEU-LINK
+- 💼 LinkedIn: https://www.linkedin.com/in/devmateusfernandes
 - 💻 GitHub: https://github.com/T-rror
